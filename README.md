@@ -17,7 +17,7 @@ Random samples from what the model predicted of test dataset are visualized to s
 ## Prerequisites
 To run this notebook, you will need:
 
-Python 3.x
+* Python 3.x
 
 The following libraries:
 
