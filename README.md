@@ -21,11 +21,11 @@ Python 3.x
 
 The following libraries:
 
-numpy
+* numpy
 
-matplotlib
+* matplotlib
 
-keras
+* keras
 
 You can install the necessary libraries using:
 
