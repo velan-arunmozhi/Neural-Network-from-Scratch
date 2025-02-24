@@ -43,4 +43,4 @@ The final trained model achieves an accuracy of 91% on the training and testing 
 
 ## Acknowledgements
 The MNIST dataset is provided by the Keras library.
-This project is inspired by wanting to understand how neural networks function.
+This project is inspired by the following videos (https://youtu.be/w8yWXqWQYmU?si=MJmfs3TzF1AxCIlf and https://youtu.be/aircAruvnKk?si=ei2bNqWTiQpUlZpp) and a want to understand how neural networks function.
